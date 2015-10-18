@@ -4,12 +4,21 @@ A trivia game for android [with Facebook integration]
 Facebook app namespace 'Triivia'
 
 `---------------------
+
 /                   /
+
 /       •   •       /
+
 /                   /
+
 /       |   |       /
+
 /       |   |       /
+
 /       \   \       /
+
 /        -   -      /
+
 /                   /
+
 ---------------------`
